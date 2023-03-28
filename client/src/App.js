@@ -55,7 +55,7 @@ function App() {
       )}
 
       <div className="App">
-        <h1 style={{ color: "white" }}>MyDrive</h1>
+        <h1 style={{ color: "white" }}>MyDriveEdit</h1>
         <div className="bg"></div>
         <div className="bg bg2"></div>
         <div className="bg bg3"></div>
